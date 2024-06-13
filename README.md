@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Subash3002&show_icons=true&theme=radical)
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Subash_AL?theme=dark&font=Julee&ext=contest)
